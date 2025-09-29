@@ -1,0 +1,122 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p><strong>Texel density:</strong> 4096 px/m</p><p><strong>Scan Area:</strong> 2x4 m</p><p><strong>Maps:</strong> Cavity Specular Roughness Gloss Normal Basecolor</p>\n<p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "2024-10-20T07:08:36.036855Z",
+		"listingType": "material",
+		"media": "https://media.fab.com/image_previews/gallery_images/63256d3c-d160-41fd-97cd-f51cf1459da6/2400b829-bc93-4ffd-a34f-9e14cc1eaac9.jpeg",
+		"publishedAt": "2024-10-13T23:23:35.081339Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/2ea232ee-b7f2-4c70-8ed6-736b3f4baba0/67f40e57-54a7-4716-b18b-76ccb9eaebcc.jpeg",
+		"title": "Oak Veneer",
+		"uid": "b93dc40c-9396-4c92-8af1-6b3835894186",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/0edd3540.png",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png",
+			"sellerName": "Quixel",
+			"uid": "45ea3429-f62c-4f17-aa15-5bb9dfcd0079"
+		},
+		"tags": [
+			{
+				"name": "Furniture",
+				"slug": "furniture",
+				"uid": "0f6b3b40-8715-4963-b755-0160e80cf12c"
+			},
+			{
+				"name": "Decorative",
+				"slug": "decorative",
+				"uid": "3ce6efbc-ecc3-4668-948f-777d34adb3fa"
+			},
+			{
+				"name": "Clean",
+				"slug": "clean",
+				"uid": "7bf075e5-7c75-4afa-8315-a89fad901850"
+			},
+			{
+				"name": "Polished",
+				"slug": "polished",
+				"uid": "8a37a307-879f-416d-8e9c-7c89a918c36d"
+			},
+			{
+				"name": "Veneer",
+				"slug": "veneer",
+				"uid": "b8464ed8-b7fb-42d0-9d8c-02cd7af4a556"
+			},
+			{
+				"name": "Smooth",
+				"slug": "smooth",
+				"uid": "f48f4a69-3244-4ae5-ac25-8f2a62e8a3fe"
+			}
+		],
+		"category":
+		{
+			"name": "Wood",
+			"path": "building-human-made/wood",
+			"slug": "building-human-made--wood",
+			"uid": "dfcfad77-52e2-4b27-9538-ca87e790032d"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Texture Set",
+					"groupName": "Material Formats",
+					"code": "texture-set",
+					"icon": "cube",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "texture-set",
+	"fileId": "33e03dff-6186-474e-a1b5-3b39e6e0912d",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": true
+}
